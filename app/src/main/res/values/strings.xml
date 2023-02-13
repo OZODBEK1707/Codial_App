@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Codial_App</string>
+    <string name="barcha_kurslar">Barcha Kurslar</string>
+    <string name="all_groups">All groups</string>
+    <string name="ushbu_o_quvchini_o_chirmoqchimisiz">Ushbu o’quvchini o’chirmoqchimisiz ?</string>
+    <string name="ha">Ha</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="number_of_students">number of Students:</string>
+    <string name="_10">10</string>
+    <string name="number_of_students_12">number_of_students: 12</string>
+    <string name="kurs_nomi">Kurs nomi</string>
+</resources>
